@@ -1,8 +1,8 @@
-### Olá! 👋
+## Olá! 👋
 
-# 🧑‍🎓 Sou aluno de engenharia elétrica na Escola Politécnica da USP desde 2020.
-# 🔭 Estou atualmente trabalhando com frontend em React Native e Next.js na Poli Júnior.
-# 🌱 Atualmente estou apredendo mais sobre javascript e gosto de programar também em C++ e Python.
+### 🧑‍🎓 Sou aluno de engenharia elétrica na Escola Politécnica da USP desde 2020.
+### 🔭 Estou atualmente trabalhando com frontend em React Native e Next.js na Poli Júnior.
+### 🌱 Atualmente estou apredendo mais sobre javascript e gosto de programar também em C++ e Python.
 
 <!--
 **FelipeCesarCuellar/FelipeCesarCuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
